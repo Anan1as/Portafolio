@@ -1,0 +1,14 @@
+#banner {
+    background-image: url("../Img/placeholderBanner.png");
+    height: 400px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+nav {
+    background-color: black;
+}
+
+.card-body {
+    margin: 5px;
+}
