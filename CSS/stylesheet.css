@@ -19,3 +19,9 @@ nav {
     width: 1000px;
     padding-bottom: 10px;
 }
+
+body {
+    background-image: url("../Img/fondo.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
