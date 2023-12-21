@@ -6,7 +6,7 @@ let btnHogwarts = document.getElementById("btnHogwarts");
 let btnRegistroEs = document.getElementById("btnRegistroEs");
 
 btnMacondo.addEventListener("click", function() {
-    location.href = "https://github.com/Anan1as/Macondo"
+    location.href = "https://anan1as.github.io/Macondo/"
 });
 
 btnAhorcado.addEventListener("click", function() {
@@ -14,11 +14,11 @@ btnAhorcado.addEventListener("click", function() {
 });
 
 btnHogwarts.addEventListener("click", function() {
-    location.href = "https://github.com/Anan1as/Hogwarts"
+    location.href = "https://anan1as.github.io/Hogwarts/"
 });
 
 btnRegistroEs.addEventListener("click", function() {
-    location.href = "https://github.com/Anan1as/RegistroEstudiantes"
+    location.href = "https://anan1as.github.io/RegistroEstudiantes/"
 });
 
 
@@ -26,5 +26,5 @@ btnRegistroEs.addEventListener("click", function() {
 let btnTricky = document.getElementById("btnTricky");
 
 btnTricky.addEventListener("click", function() {
-    location.href = "https://github.com/Anan1as/Triky"
+    location.href = "https://anan1as.github.io/Triky/"
 });
