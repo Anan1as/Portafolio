@@ -9,6 +9,6 @@ nav {
     background-color: black;
 }
 
-.card-body {
-    margin: 5px;
+.row {
+    margin-bottom: 20px;
 }
