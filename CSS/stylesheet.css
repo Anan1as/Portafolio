@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock+SC&display=swap');
+
 #banner {
     background-image: url("../Img/Banner\ portafolio.png");
     height: 450px;
@@ -6,7 +8,7 @@
     background-size: cover;
 }
 
-nav {
+ul {
     background-color: black;
 }
 
@@ -24,4 +26,12 @@ body {
     background-image: url("../Img/fondo.png");
     background-attachment: fixed;
     background-size: cover;
+}
+
+h2 {
+    font-family: 'Overlock SC', sans-serif;
+}
+
+.nav-link {
+    color: aliceblue;
 }

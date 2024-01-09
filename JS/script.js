@@ -1,5 +1,4 @@
 //Linea 1
-
 let btnMacondo = document.getElementById("btnMacondo");
 let btnAhorcado = document.getElementById("btnAhorcado");
 let btnHogwarts = document.getElementById("btnHogwarts");
@@ -24,7 +23,17 @@ btnRegistroEs.addEventListener("click", function() {
 
 //Linea 2
 let btnTricky = document.getElementById("btnTricky");
+let btnIniciodeSesion = document.getElementById("btnIniciodeSesion");
+let btnKFC = document.getElementById("btnKFC");
 
 btnTricky.addEventListener("click", function() {
     location.href = "https://anan1as.github.io/Triky/"
 });
+
+btnIniciodeSesion.addEventListener("click", function() {
+    location.href = "https://anan1as.github.io/Inicio-de-sesion/"
+});
+
+btnKFC.addEventListener("click", function () {
+    location.href = "https://anan1as.github.io/burga/"
+})
